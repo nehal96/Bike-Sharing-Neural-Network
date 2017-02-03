@@ -1,4 +1,4 @@
-# Bike-Sharing-Neural-Network
+# Bike Sharing Neural Network
 A simple neural network with backpropagation that predicts daily bike rental ridership
 
 This is Project 1 of Udacity's [Deep Learning Nanodegree Foundation](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101) program. The aim of this project is to go through the mathematical steps that a simple neural network with 1 hidden layer will take in order to *learn* patterns in the data. 
